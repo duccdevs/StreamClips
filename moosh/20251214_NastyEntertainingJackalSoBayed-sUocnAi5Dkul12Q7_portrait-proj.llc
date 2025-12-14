@@ -1,0 +1,14 @@
+{
+  version: 1,
+  mediaFileName: '20251214_NastyEntertainingJackalSoBayed-sUocnAi5Dkul12Q7_portrait.mp4',
+  cutSegments: [
+    {
+      end: 12.42882,
+      name: '',
+    },
+    {
+      start: 15.937819420783645,
+      name: '',
+    },
+  ],
+}
